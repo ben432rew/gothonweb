@@ -1,6 +1,9 @@
-# Gothonweb
+#Gothonweb
 
-TODO: Write a gem description
+From Zed Shaw's [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/).
+
+
+TODO: Write a gem description, integrate into my website
 
 ## Installation
 
